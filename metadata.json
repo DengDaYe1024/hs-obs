@@ -1,0 +1,7 @@
+{
+  "name": "OBS Studio Control Center",
+  "description": "A professional streaming dashboard that controls OBS Studio remotely using OBS WebSocket API v5, featuring real-time scene switching, source management, and AI-driven stream analysis with Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
